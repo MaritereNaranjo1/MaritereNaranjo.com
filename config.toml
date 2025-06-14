@@ -1,0 +1,26 @@
+base_url = "https://www.mariterenaranjo.com"
+title = "MaritereNaranjo"
+
+compile_sass = true
+build_search_index = true
+theme = "hallo"
+
+[markdown]
+highlight_code = true
+
+[extra]
+greeting = "Hola!"
+
+iam = "My name is"
+
+links = [
+    { title = "Youtube", url = "https://www.youtube.com/@mariterenaranjo", icon = "youtube" }
+]
+
+[extra.author]
+name = "Maritere Naranjo"
+
+[extra.theme]
+background = "#89EFEF"
+foreground = "#000"
+hover = "#333"
